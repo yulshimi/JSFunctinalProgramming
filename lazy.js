@@ -1,3 +1,4 @@
+//Name: Phillip Jo
 "use strict";
 // In this lab, you will use JavaScript's first class functions and
 // closures to implement Haskell-style lazy evaluation (call-by-need).
